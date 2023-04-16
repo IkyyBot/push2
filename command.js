@@ -92,7 +92,7 @@ conn.sendMessage(i.id, { text: q })
 reply(`Success Send Message To ${("id", meki).length} Number`)
 break
 case 'menu':
-let teks = `SCRIPT PUSH KONTAK ASKEDZOFFICIAL 
+let teks = `SCRIPT PUSH KONTAK IKYYSTORE 
  
 cara pakai :
  
